@@ -1,4 +1,4 @@
-# Musinsa Product API
+# JPA Product API
 
 ## 1. 구현 범위에 대한 설명
 
